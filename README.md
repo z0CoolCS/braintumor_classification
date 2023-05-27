@@ -21,10 +21,12 @@ The repository is structured as follows:
 
 ```
 ├── main.py
-├── train.py
-├── data.py
-├── resnet.py
-├── utils.py
+├── reset
+    ├── __init__.py
+    ├── train.py
+    ├── data.py
+    ├── resnet.py
+    └── utils.py
 ├── resnet_demo.ipynb
 └── README.md
 ```
